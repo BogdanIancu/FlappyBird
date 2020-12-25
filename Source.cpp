@@ -8,7 +8,6 @@ using namespace std;
 int main()
 {
     system("Color 5E");
-
     cout << "           _____ _                 _____ _       _ " << endl;
     cout << "          |   __| |___ ___ ___ _ _| __  |_|___ _| |" << endl;
     cout << "          |   __| | .'| . | . | | | __ -| |  _| . |" << endl;
